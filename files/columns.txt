@@ -1,0 +1,133 @@
+Asset Turnover Ratio
+Average dividend payout 3years
+Average return on capital employed 3Years
+Average return on equity 3Years
+Book value
+Capital work in progress
+Cash Equivalents
+Cash from financing last year
+Cash from financing preceding year
+Cash from investing last year
+Cash from investing preceding year
+Cash from operations last year
+Cash from operations preceding year
+Change in promoter holding
+Change in promoter holding 3Years
+Current assets
+Current liabilities
+Debt
+Debt preceding year
+Debt to equity
+Depreciation
+Depreciation last year
+Depreciation latest quarter
+Depreciation preceding year
+Dividend last year
+Dividend preceding year
+Dividend yield
+EBIDT last year
+EBIDT latest quarter
+EBIDT preceding quarter
+EBIDT preceding year quarter
+EBIT
+EBIT latest quarter
+EBIT preceding quarter
+EBIT preceding year
+EBIT preceding year quarter
+Employee cost last year
+Enterprise Value
+EPS
+EPS last year
+EPS latest quarter
+EPS preceding quarter
+EPS preceding year
+EPS preceding year quarter
+Equity capital
+Exports percentage
+Extraordinary items latest quarter
+Face value
+Financial leverage
+Free cash flow 3years
+Free cash flow last year
+Free cash flow preceding year
+Industry PBV
+Industry PE
+Interest
+Interest latest quarter
+Interest preceding year
+Inventory turnover ratio
+Investing cash flow 3years
+Investments
+Market value of quoted investments
+Net cash flow last year
+Net cash flow preceding year
+Net profit
+Net profit 2quarters back
+Net profit 3quarters back
+Net Profit last year
+Net Profit latest quarter
+Net Profit preceding quarter
+Net Profit preceding year
+Net Profit preceding year quarter
+NPM last year
+NPM latest quarter
+NPM preceding quarter
+NPM preceding year
+NPM preceding year quarter
+Operating cash flow 3years
+Operating profit
+Operating profit last year
+Operating profit latest quarter
+Operating profit preceding quarter
+Operating profit preceding year
+OPM
+OPM 5Year
+OPM last year
+OPM latest quarter
+OPM preceding quarter
+OPM preceding year
+OPM preceding year quarter
+Other income
+Other income last year
+Other income latest quarter
+Pledged percentage
+Price to book value
+Price to Earning
+Profit after tax
+Profit after tax last year
+Profit after tax latest quarter
+Profit after tax preceding quarter
+Profit after tax preceding year
+Profit after tax preceding year quarter
+Profit before tax last year
+Profit before tax latest quarter
+Profit before tax preceding year
+Profit before tax preceding year quarter
+Profit growth
+Promoter holding
+Quick ratio
+Reserves
+Return on assets
+Return on capital employed
+Return on equity
+Return on equity preceding year
+Sales
+Sales growth
+Sales growth 3Years
+Sales last year
+Sales latest quarter
+Sales preceding quarter
+Sales preceding year
+Sales preceding year quarter
+Secured loan
+Tax
+Tax latest quarter
+Total Assets
+Trade Payables
+Trade receivables
+Unpledged promoter holding
+Unsecured loan
+Working capital
+Working capital preceding year
+YOY Quarterly profit growth
+YOY Quarterly sales growth
