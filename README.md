@@ -1,6 +1,9 @@
 # Live-Data-Scrape
 Scrape live company data from Screener.in. You can add how many every companies you want and how many every columns you would like to extract. The columns for all the companies will be extracted onto an Excel sheet at increments you enter.
 
+### Update ###
+Due to website updates, this code may not work as expected
+
 ### How to run exe ###
 Simply run the exe file and input the details prompted.
 The Excel file will be output in the 'output' folder.
