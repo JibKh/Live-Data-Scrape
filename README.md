@@ -1,11 +1,15 @@
 # Live-Data-Scrape
 Scrape live company data from Screener.in. You can add how many every companies you want and how many every columns you would like to extract. The columns for all the companies will be extracted onto an Excel sheet at increments you enter.
 
-I have added the code in the code branch if you do not want to run an exe file on your device.
-
-### How to run ###
+### How to run exe ###
 Simply run the exe file and input the details prompted.
 The Excel file will be output in the 'output' folder.
+
+### How to run without exe ###
+Simply open the main.py in your choice of code editting software and run the code.
+You will need to do:
+pip install selenium
+pip install XlsxWriter
 
 ### How to edit ###
 In the 'files' folder, you can open the txt files and add or remove columns or companies.
