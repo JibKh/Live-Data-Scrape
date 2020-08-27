@@ -11,6 +11,6 @@ The Excel file will be output in the 'output' folder.
 In the 'files' folder, you can open the txt files and add or remove columns or companies.
 
 ### Warnings ###
-The txt files cannot contain any empty lines at the start, end or middle.//
-The adding companies of the code may cause error due to the website. Please manually add websites if it throws an error.//
+The txt files cannot contain any empty lines at the start, end or middle.<br />
+The adding companies of the code may cause error due to the website. Please manually add websites if it throws an error.<br />
 Do not open the Excel file while the code is running. Please open it during its sleep time. Or copy it and open the copy file while it is running.
