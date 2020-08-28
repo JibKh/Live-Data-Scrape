@@ -3,7 +3,7 @@ Scrape live company data from Screener.in. You can add how many every companies 
 
 ### Update ###
 Due to website updates:
-1) This code will only work for 15 or less companies at a time.
+1) This code will only work for maximum 15 companies at a time.
 2) Adding companies function may not work as expected.
 
 ### How to run exe ###
