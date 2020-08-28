@@ -19,6 +19,13 @@ pip install XlsxWriter
 ### How to edit ###
 In the 'files' folder, you can open the txt files and add or remove columns or companies.
 
+### Make your own exe file ###
+If you updated the main.py and would like to make your own exe file:
+1) pip install pyinstaller
+2) In the directory of the main.py open cmd. 
+   pyinstaller --onefile main.py
+3) Open dist folder and copy all the file dependencies the main.py has.
+
 ### Warnings ###
 The txt files cannot contain any empty lines at the start, end or middle.<br />
 The adding companies of the code may cause error due to the website. Please manually add websites if it throws an error.<br />
