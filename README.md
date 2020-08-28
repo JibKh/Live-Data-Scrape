@@ -13,8 +13,8 @@ The Excel file will be output in the 'output' folder.
 ### How to run without exe ###
 Simply open the main.py in your choice of code editting software and run the code.
 You will need to do:
-pip install selenium
-pip install XlsxWriter
+1) pip install selenium
+2) pip install XlsxWriter
 
 ### How to edit ###
 In the 'files' folder, you can open the txt files and add or remove columns or companies.
